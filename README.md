@@ -1,2 +1,2 @@
-# belajar-cpp
-belajar-cpp
+# learn-cpp
+learn-cpp
